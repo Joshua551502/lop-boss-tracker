@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/lop-boss-tracker/static/css/main.e0e13d16.css",
+    "main.js": "/lop-boss-tracker/static/js/main.2a0299b9.js",
+    "static/js/453.77e36b07.chunk.js": "/lop-boss-tracker/static/js/453.77e36b07.chunk.js",
+    "static/media/TitleFontEnglish.ttf": "/lop-boss-tracker/static/media/TitleFontEnglish.7a4893c32900b69a5c12.ttf",
+    "static/media/InfoFontEnglish.ttf": "/lop-boss-tracker/static/media/InfoFontEnglish.10a50058b1d671d4d46e.ttf",
+    "static/media/green_monster_of_the_swamp.jpg": "/lop-boss-tracker/static/media/green_monster_of_the_swamp.a8e5926c8ab0e62efc6c.jpg",
+    "static/media/scrapped_watchman.jpg": "/lop-boss-tracker/static/media/scrapped_watchman.9644fd0b2100691eedce.jpg",
+    "static/media/black_rabbit_brotherhood.jpg": "/lop-boss-tracker/static/media/black_rabbit_brotherhood.b5326e7e88554f001d07.jpg",
+    "static/media/kings_flame_fuoco.jpg": "/lop-boss-tracker/static/media/kings_flame_fuoco.9c616fabd0d5add17101.jpg",
+    "static/media/fallen_archbishop_andreus.jpg": "/lop-boss-tracker/static/media/fallen_archbishop_andreus.e5af81159910bc979ed4.jpg",
+    "static/media/romeo_king_of_puppets.jpg": "/lop-boss-tracker/static/media/romeo_king_of_puppets.a74a0f1f72a2eea2333c.jpg",
+    "static/media/simon_manus_awakened_god.jpg": "/lop-boss-tracker/static/media/simon_manus_awakened_god.fc57a3367895e9f97b95.jpg",
+    "static/media/laxasia_the_complete.jpg": "/lop-boss-tracker/static/media/laxasia_the_complete.620da0ea48dc08396034.jpg",
+    "static/media/nameless_puppet.jpg": "/lop-boss-tracker/static/media/nameless_puppet.267f0de28f7428e1a8ca.jpg",
+    "static/media/ScrambledFont.ttf": "/lop-boss-tracker/static/media/ScrambledFont.b9d9ef3637b3a58e9366.ttf",
+    "static/media/red_fox.jpg": "/lop-boss-tracker/static/media/red_fox.555dd59c160a542e5d54.jpg",
+    "static/media/parade_master.jpg": "/lop-boss-tracker/static/media/parade_master.85ee14b8988eb16bd329.jpg",
+    "static/media/puppet_of_the_future.jpg": "/lop-boss-tracker/static/media/puppet_of_the_future.9bacb6bd7d4ab3e1bfe0.jpg",
+    "static/media/corrupted_parade_master.jpg": "/lop-boss-tracker/static/media/corrupted_parade_master.58dc17aa3d4093a81db5.jpg",
+    "static/media/white_lady.jpg": "/lop-boss-tracker/static/media/white_lady.ee95ee30f24d631b2e74.jpg",
+    "static/media/black_cat.jpg": "/lop-boss-tracker/static/media/black_cat.548ac95faa3f7270bcb7.jpg",
+    "static/media/puppet_devouring_green_monster.jpg": "/lop-boss-tracker/static/media/puppet_devouring_green_monster.80ba4e40051f167c5368.jpg",
+    "static/media/owl_doctor.jpg": "/lop-boss-tracker/static/media/owl_doctor.21a2df45ad87600d1a55.jpg",
+    "static/media/mad_donkey.jpg": "/lop-boss-tracker/static/media/mad_donkey.ded62ee9979353c8ae4d.jpg",
+    "static/media/the_atoned.jpg": "/lop-boss-tracker/static/media/the_atoned.cb08355c1bd944f10efa.jpg",
+    "static/media/walker_of_illusions.jpg": "/lop-boss-tracker/static/media/walker_of_illusions.3318282dd411d91cb8ce.jpg",
+    "static/media/mad_clown_puppet.jpg": "/lop-boss-tracker/static/media/mad_clown_puppet.42a0afcd0df5658fa3ae.jpg",
+    "static/media/champion_victor.jpg": "/lop-boss-tracker/static/media/champion_victor.109cbc7837f2fcb2002e.jpg",
+    "static/media/door_guardian.jpg": "/lop-boss-tracker/static/media/door_guardian.0b0061d6913e578fee79.jpg",
+    "static/media/eldest_of_the_black_rabbit_brotherhood.jpg": "/lop-boss-tracker/static/media/eldest_of_the_black_rabbit_brotherhood.79435e63fd44a96c83c8.jpg",
+    "static/media/robber_weasel.jpg": "/lop-boss-tracker/static/media/robber_weasel.c674fd86511a57ab9928.jpg",
+    "index.html": "/lop-boss-tracker/index.html",
+    "main.e0e13d16.css.map": "/lop-boss-tracker/static/css/main.e0e13d16.css.map",
+    "main.2a0299b9.js.map": "/lop-boss-tracker/static/js/main.2a0299b9.js.map",
+    "453.77e36b07.chunk.js.map": "/lop-boss-tracker/static/js/453.77e36b07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0e13d16.css",
+    "static/js/main.2a0299b9.js"
+  ]
+}
