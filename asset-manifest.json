@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/lop-boss-tracker/static/css/main.e0e13d16.css",
-    "main.js": "/lop-boss-tracker/static/js/main.2a0299b9.js",
+    "main.css": "/lop-boss-tracker/static/css/main.ab3bae68.css",
+    "main.js": "/lop-boss-tracker/static/js/main.15c5eae4.js",
     "static/js/453.77e36b07.chunk.js": "/lop-boss-tracker/static/js/453.77e36b07.chunk.js",
     "static/media/TitleFontEnglish.ttf": "/lop-boss-tracker/static/media/TitleFontEnglish.7a4893c32900b69a5c12.ttf",
     "static/media/InfoFontEnglish.ttf": "/lop-boss-tracker/static/media/InfoFontEnglish.10a50058b1d671d4d46e.ttf",
@@ -32,12 +32,12 @@
     "static/media/eldest_of_the_black_rabbit_brotherhood.jpg": "/lop-boss-tracker/static/media/eldest_of_the_black_rabbit_brotherhood.79435e63fd44a96c83c8.jpg",
     "static/media/robber_weasel.jpg": "/lop-boss-tracker/static/media/robber_weasel.c674fd86511a57ab9928.jpg",
     "index.html": "/lop-boss-tracker/index.html",
-    "main.e0e13d16.css.map": "/lop-boss-tracker/static/css/main.e0e13d16.css.map",
-    "main.2a0299b9.js.map": "/lop-boss-tracker/static/js/main.2a0299b9.js.map",
+    "main.ab3bae68.css.map": "/lop-boss-tracker/static/css/main.ab3bae68.css.map",
+    "main.15c5eae4.js.map": "/lop-boss-tracker/static/js/main.15c5eae4.js.map",
     "453.77e36b07.chunk.js.map": "/lop-boss-tracker/static/js/453.77e36b07.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0e13d16.css",
-    "static/js/main.2a0299b9.js"
+    "static/css/main.ab3bae68.css",
+    "static/js/main.15c5eae4.js"
   ]
 }
