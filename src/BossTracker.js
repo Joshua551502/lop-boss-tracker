@@ -27,6 +27,7 @@ import LaxasiaTheComplete from "./assets/images/laxasia_the_complete.jpg";
 import RedFox from "./assets/images/red_fox.jpg";
 import SimonManusAwakenedGod from "./assets/images/simon_manus_awakened_god.jpg";
 import NamelessPuppet from "./assets/images/nameless_puppet.jpg";
+import TimeDisplay from "./TimeDisplay";
 
 const bosses = [
   { name: "Parade Master", image: ParadeMaster, emoji: "🎭" },
@@ -242,6 +243,7 @@ const BossTracker = () => {
 
   return (
     <div className="container">
+      <TimeDisplay />
       <h1 className="title">LIES OF P BOSS TRACKER</h1>
       <ul className="boss-list">
         {bosses.map((boss) => (
